@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+header{
+    background-color: darkgoldenrod;
+    text-align: center;
+    height: 40px;
+    }
+
+div{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    }
+
+.laterales{
+    width: 200px;
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+   }
+
+h2, h1{
+    padding-top: 10px ;
+   }
